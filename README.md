@@ -1,4 +1,3 @@
-![logo](https://github.com/Nixjoy/Nixjoy/blob/main/Data%20ANALYTS%20(1).png)
 <h1 align="center">Hi 👋, I'm Joy Paul</h1>
 <h3 align="centre">As a data analyst, I have a strong passion for Dashboards.</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
